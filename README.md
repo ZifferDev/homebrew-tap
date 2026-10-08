@@ -17,4 +17,4 @@ See the [digit documentation](https://github.com/ZifferDev/digit/tree/main/docs)
 Updating the CLI does not start or update Minecraft servers.
 
 The release workflow in ZifferDev/digit maintains Formula/digit.rb using verified
-GitHub release checksums and a deploy key scoped to this repository.
+GitHub release checksums and a token scoped to this repository.
